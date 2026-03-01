@@ -4,14 +4,10 @@
 ## About The Project
 
 
-It analyses the movie review entered by a user for any specific movie and analyses what is the sentiment of the review. It helps the companies rate the movie and understand crowd sentiment regarding it. Sentiment analysis is a natural language processing problem where text is understood and the underlying intent is predicted. Sentiment analysis, also called opinion mining, is the field of study that analyzes people’s opinions, sentiments, evaluations, appraisals, attitudes, and emotions towards entities such as products, services, organizations, individuals, issues, events, topics, and their attributes
+It analyses the movie review entered by a user for any specific movie and analyses what is the movie review. It helps the companies rate the movie and understand crowd review regarding it.
 
-Here's why:
-* Sentiment analysis has long been a problem for business, marketing and management areas for more
-value earned in the decision process
-* Sentiment Analysis also helps organisations measure the ROI of their marketing campaigns and improve their customer service.
-* Since sentiment analysis gives the organisations a sneak peek into their customer’s emotions, they can be aware of any crisis that’s to come well in time – and manage it accordingly.
 
-The Large Movie Review Dataset (often referred to as the IMDB dataset) contains 25,000 highly polar moving reviews (good or bad) for training and the same amount again for testing. The problem is to determine whether a given moving review has a positive or negative sentiment.
+This was one of the first widely-available sentiment analysis datasets compiled by Pang and Lee's. The data was first collected in 2002, however, the text is similar to movies reviews you find on IMDB today. The dataset is in a CSV format. It has two categories: Pos (reviews that express a positive or favourable sentiment) and Neg (reviews that express a negative or unfavourable sentiment). For this exercise, we will assume that all reviews are either positive or negative; there are no neutral reviews.
 
-The data was collected by Stanford researchers and was used in a 2011 paper [PDF](http://ai.stanford.edu/~amaas/papers/wvSent_acl2011.pdf) where a split of 50/50 of the data was used for training and test.
+
+In this segment, you will use the IMDB movie reviews dataset to classify reviews as 'positive' or 'negative'. We have divided the data into training and test sets. The training set contains 800 positive and 800 negative movie reviews whereas the test set contains 200 positive and 200  negative movie reviews.
