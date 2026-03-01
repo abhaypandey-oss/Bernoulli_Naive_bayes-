@@ -15,7 +15,7 @@ In this segment, you will use the IMDB movie reviews dataset to classify reviews
 
 ### Built With
 This was build using following frameworks, libraries and softwares.
-* [Naive bayes]([https://www.tensorflow.org/](https://www.tutorialspoint.com/machine_learning/machine_learning_naive_bayes_algorithms.htm))
+* [Naive bayes](https://scikit-learn.org/stable/modules/naive_bayes.html)
 * [Numpy](https://numpy.org/)
 * [pandas](https://pandas.pydata.org/)
 * [Matplotlib](https://matplotlib.org/)
