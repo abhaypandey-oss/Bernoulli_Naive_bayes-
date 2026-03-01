@@ -11,3 +11,11 @@ This was one of the first widely-available sentiment analysis datasets compiled 
 
 
 In this segment, you will use the IMDB movie reviews dataset to classify reviews as 'positive' or 'negative'. We have divided the data into training and test sets. The training set contains 800 positive and 800 negative movie reviews whereas the test set contains 200 positive and 200  negative movie reviews.
+
+
+### Built With
+This was build using following frameworks, libraries and softwares.
+* [Naive bayes]([https://www.tensorflow.org/](https://www.tutorialspoint.com/machine_learning/machine_learning_naive_bayes_algorithms.htm))
+* [Numpy](https://numpy.org/)
+* [pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
